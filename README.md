@@ -1,25 +1,21 @@
-                                                            Python Developer👋
-                                                  HTML | CSS | JavaScript | Django | SQL
 
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Carlos+Alexandre+Tarão;CarlosAlexandre197;Desenvolvedor;Python!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=1000&pause=2000&color=00000062&center=true&vCenter=true&random=false&width=441&lines=John+Nasiman;Front+End+Developer;WordPress+Expert;ASP.NET+Developer;Blazor!)](https://git.io/typing-svg)
  
 <div>
   
   <h1 align="center">
-    Hey how´s it going? Be welcome! 😃️
+    If something is important enough, you should try, even if the probable outcome is failure. 😃️
   </h1>
-   <p align="center">
-    Come codar with me, your contribution will be very welcome! 😉️
-  </p> 
+  
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeofgold&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeofgold&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeofgold&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
   
@@ -27,10 +23,9 @@
  
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,powershell,vscode,git,github,sqlite,mysql,postgresql,heroku,django,postman,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,figma,jquery,sass,xd,react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron,wordpress,webflow,cs,dotnet,docker,go,visualstudio,vscode,cloudflare,firebase,heroku,aws,azure" />
     
   </a>
 </p>
@@ -49,4 +44,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosAlexandre197}/count.svg" /></p>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=footer"/>

@@ -1,0 +1,11 @@
+html,css,bootstrap,js,ts,figma,jquery,sass,xd
+php,laravel,
+fastapi
+react,redux,nodejs,express,angular,vue,mysql,mongodb,nextjs,nuxtjs,postman,threejs,tailwind,babel,electron
+wordpress,webflow,
+cs,dotnet,docker,go,visualstudio,vscode,
+cloudflare,firebase,heroku,aws,azure,
+discord,git,gitlab,stackoverflow,
+ai,py,pytorch,qt,selenium,tensorflow,
+solidity,
+ruby,rust,svelte,
